@@ -1,3 +1,5 @@
+// code from Arduino IDE to config Arduino Uno
+
 #include <SoftwareSerial.h>
 SoftwareSerial sim(5,6); //portas TXD RXD do sim
 String number = "+5511984839039";                                    
