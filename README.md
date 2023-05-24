@@ -16,3 +16,8 @@ Os principais recursos de hardware necessário para o projeto foram: Placa Ardui
 Cabos jumpers, protoboard, fonte de energia e demais caso haja necessidade.
 
 
+## Ilustração
+Abaixo uma imagem de como deve se parecer os componentes conectados.
+
+
+![image](https://github.com/MarianaGaldino/GSMHomeBasedSecurity/assets/80767881/8556835c-4ff9-4f12-a5f3-4015020856a7)
