@@ -1,5 +1,5 @@
 # GSMHomeBasedSecurity
-Projeto baseado em IoT 
+Projeto de Segurança residencial baseado em IoT 
 
 ## Descrição
 O objetivo do projeto é proporcionar a utilização e criação de arquiteturas de baixo custo e 
@@ -10,4 +10,9 @@ O projeto destina-se a fornecer informações de ocorrências na residência do 
 O sensor PIR tem a função de detectar o movimento sentindo a diferença dos níveis de calor 
 infravermelho emitidos pelos corpos circundantes, neste caso a saída do sensor é alta, 
 sendo então detectada pelo Arduino. O Arduino se comunica com o módulo GSM e faz uma chamada para o número de celular pré-programado.
+
+## Materiais
+Os principais recursos de hardware necessário para o projeto foram: Placa Arduino Uno R3, Sensor PIR de Presença, Módulo GSM SIM800l e Sim Card.
+Cabos jumpers, protoboard, fonte de energia e demais caso haja necessidade.
+
 
