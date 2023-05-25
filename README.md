@@ -19,5 +19,5 @@ Cabos jumpers, protoboard, fonte de energia e conforme necessidade.
 ## Ilustração
 Abaixo uma imagem de como deve se parecer os componentes conectados.
 <div align="center">
-<img src=https://github.com/MarianaGaldino/GSMHomeBasedSecurity/issues/1#issue-1724898755 /> 
+<img src="https://github.com/MarianaGaldino/GSMHomeBasedSecurity/issues/2#issue-1724905797" width=700px /> 
 </div>
