@@ -21,3 +21,4 @@ Abaixo uma imagem de como deve se parecer os componentes conectados.
 <div align="center">
 <img src="https://github.com/MarianaGaldino/GSMHomeBasedSecurity/issues/2#issue-1724905797" width=700px /> 
 </div>
+![Captura de Tela 2023-05-24 às 21 25 34](https://github.com/MarianaGaldino/GSMHomeBasedSecurity/assets/80767881/560cb7fb-9c35-4c4a-b157-2c8b2d072647)
